@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "author": "SevenChat Team",
   "repository": "https://github.com/seven-gitt/sevenchat-stickers",
-  "createdAt": "2025-09-29T03:14:24.206Z",
-  "updatedAt": "2025-09-29T03:14:24.223Z",
+  "createdAt": "2025-09-29T03:28:17.362Z",
+  "updatedAt": "2025-09-29T03:28:17.377Z",
   "packs": [
     {
       "id": "Aniaml",
@@ -15,8 +15,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Aniaml.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:14:24.209Z",
-      "updatedAt": "2025-09-29T03:14:24.209Z",
+      "createdAt": "2025-09-29T03:28:17.365Z",
+      "updatedAt": "2025-09-29T03:28:17.365Z",
       "stickers": [
         {
           "id": "kSlEMBnQ4LoerStalSwv-1",
@@ -592,8 +592,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Dudu.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:14:24.212Z",
-      "updatedAt": "2025-09-29T03:14:24.212Z",
+      "createdAt": "2025-09-29T03:28:17.367Z",
+      "updatedAt": "2025-09-29T03:28:17.367Z",
       "stickers": [
         {
           "id": "XTz92PmG5e19kJApxkY5-1",
@@ -1665,8 +1665,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Frog.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:14:24.215Z",
-      "updatedAt": "2025-09-29T03:14:24.215Z",
+      "createdAt": "2025-09-29T03:28:17.369Z",
+      "updatedAt": "2025-09-29T03:28:17.369Z",
       "stickers": [
         {
           "id": "VODLUpRpYHmL9vwl8VcJ-0",
@@ -2050,8 +2050,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Mèo.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:14:24.217Z",
-      "updatedAt": "2025-09-29T03:14:24.217Z",
+      "createdAt": "2025-09-29T03:28:17.370Z",
+      "updatedAt": "2025-09-29T03:28:17.371Z",
       "stickers": [
         {
           "id": "webpc (1)",
@@ -2542,8 +2542,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Mèo1.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:14:24.218Z",
-      "updatedAt": "2025-09-29T03:14:24.218Z",
+      "createdAt": "2025-09-29T03:28:17.372Z",
+      "updatedAt": "2025-09-29T03:28:17.372Z",
       "stickers": [
         {
           "id": "1qI2dUmv0XQGHScRRLqO-0",
@@ -2872,22 +2872,22 @@
       "crawledAt": "2025-08-30T03:46:47.366Z"
     },
     {
-      "id": "Newsky",
-      "name": "Newsky Pack",
-      "description": "Collection of Newsky stickers",
+      "id": "NewSky",
+      "name": "NewSky Pack",
+      "description": "Collection of newsky stickers",
       "author": "SevenChat Team",
       "version": "1.0.0",
-      "thumbnail": "thumbnails/Newsky.png",
+      "thumbnail": "thumbnails/NewSky.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:14:24.219Z",
-      "updatedAt": "2025-09-29T03:14:24.219Z",
+      "createdAt": "2025-09-29T03:28:17.373Z",
+      "updatedAt": "2025-09-29T03:28:17.373Z",
       "stickers": [
         {
           "id": "buon_ngu-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/buon_ngu-removebg-preview.png",
+          "url": "stickers/NewSky/buon_ngu-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "buon",
             "ngu",
             "removebg",
@@ -2898,15 +2898,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 104847
         },
         {
           "id": "cuoi_vl-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/cuoi_vl-removebg-preview.png",
+          "url": "stickers/NewSky/cuoi_vl-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "cuoi",
             "removebg",
             "preview",
@@ -2916,15 +2916,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 83324
         },
         {
           "id": "Dhkg-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/Dhkg-removebg-preview.png",
+          "url": "stickers/NewSky/Dhkg-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "dhkg",
             "removebg",
             "preview",
@@ -2934,15 +2934,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 93321
         },
         {
           "id": "Dot-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/Dot-removebg-preview.png",
+          "url": "stickers/NewSky/Dot-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "dot",
             "removebg",
             "preview",
@@ -2952,15 +2952,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 79189
         },
         {
           "id": "Dot_via-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/Dot_via-removebg-preview.png",
+          "url": "stickers/NewSky/Dot_via-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "dot",
             "via",
             "removebg",
@@ -2971,15 +2971,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 101248
         },
         {
           "id": "Fuk-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/Fuk-removebg-preview.png",
+          "url": "stickers/NewSky/Fuk-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "fuk",
             "removebg",
             "preview",
@@ -2989,15 +2989,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 91246
         },
         {
           "id": "het_tien-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/het_tien-removebg-preview.png",
+          "url": "stickers/NewSky/het_tien-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "het",
             "tien",
             "removebg",
@@ -3008,15 +3008,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 99820
         },
         {
           "id": "Hu-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/Hu-removebg-preview.png",
+          "url": "stickers/NewSky/Hu-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "removebg",
             "preview",
             "sticker",
@@ -3025,15 +3025,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 91062
         },
         {
           "id": "Hẹ_hẹ-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/Hẹ_hẹ-removebg-preview.png",
+          "url": "stickers/NewSky/Hẹ_hẹ-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "removebg",
             "preview",
             "sticker",
@@ -3042,15 +3042,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 122037
         },
         {
           "id": "Khoc-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/Khoc-removebg-preview.png",
+          "url": "stickers/NewSky/Khoc-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "khoc",
             "removebg",
             "preview",
@@ -3060,15 +3060,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 93201
         },
         {
           "id": "Lay_troi-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/Lay_troi-removebg-preview.png",
+          "url": "stickers/NewSky/Lay_troi-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "lay",
             "troi",
             "removebg",
@@ -3079,15 +3079,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 96325
         },
         {
           "id": "nam_mo-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/nam_mo-removebg-preview.png",
+          "url": "stickers/NewSky/nam_mo-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "nam",
             "removebg",
             "preview",
@@ -3097,15 +3097,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 86922
         },
         {
           "id": "ok-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/ok-removebg-preview.png",
+          "url": "stickers/NewSky/ok-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "removebg",
             "preview",
             "sticker",
@@ -3114,15 +3114,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 105440
         },
         {
           "id": "So-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/So-removebg-preview.png",
+          "url": "stickers/NewSky/So-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "removebg",
             "preview",
             "sticker",
@@ -3131,15 +3131,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 82563
         },
         {
           "id": "Sot_ruot-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/Sot_ruot-removebg-preview.png",
+          "url": "stickers/NewSky/Sot_ruot-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "sot",
             "ruot",
             "removebg",
@@ -3150,15 +3150,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 75476
         },
         {
           "id": "Stick-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/Stick-removebg-preview.png",
+          "url": "stickers/NewSky/Stick-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "stick",
             "removebg",
             "preview",
@@ -3168,15 +3168,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 119800
         },
         {
           "id": "Stop-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/Stop-removebg-preview.png",
+          "url": "stickers/NewSky/Stop-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "stop",
             "removebg",
             "preview",
@@ -3186,15 +3186,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 104904
         },
         {
           "id": "Tien_chi_la_con_so-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/Tien_chi_la_con_so-removebg-preview.png",
+          "url": "stickers/NewSky/Tien_chi_la_con_so-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "tien",
             "chi",
             "con",
@@ -3206,15 +3206,15 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 102256
         },
         {
           "id": "Uwhy-removebg-preview",
           "name": "",
-          "url": "stickers/Newsky/Uwhy-removebg-preview.png",
+          "url": "stickers/NewSky/Uwhy-removebg-preview.png",
           "tags": [
-            "Newsky",
+            "NewSky",
             "uwhy",
             "removebg",
             "preview",
@@ -3224,7 +3224,7 @@
             "fun"
           ],
           "category": "general",
-          "pack": "Newsky",
+          "pack": "NewSky",
           "size": 77187
         }
       ],
@@ -3241,8 +3241,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Nuda.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:14:24.220Z",
-      "updatedAt": "2025-09-29T03:14:24.220Z",
+      "createdAt": "2025-09-29T03:28:17.374Z",
+      "updatedAt": "2025-09-29T03:28:17.374Z",
       "stickers": [
         {
           "id": "BxlMEWNBTCfCnrx0J4L3-0",
@@ -3594,8 +3594,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/pig.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:14:24.221Z",
-      "updatedAt": "2025-09-29T03:14:24.221Z",
+      "createdAt": "2025-09-29T03:28:17.374Z",
+      "updatedAt": "2025-09-29T03:28:17.374Z",
       "stickers": [
         {
           "id": "bắn tym",
@@ -3691,8 +3691,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Quby.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:14:24.222Z",
-      "updatedAt": "2025-09-29T03:14:24.222Z",
+      "createdAt": "2025-09-29T03:28:17.375Z",
+      "updatedAt": "2025-09-29T03:28:17.375Z",
       "stickers": [
         {
           "id": "1Dya2eQtWq0TeUtPi2D7-1",
@@ -4348,8 +4348,8 @@
       "version": "1.0.0",
       "thumbnail": "thumbnails/Rabbit.png",
       "category": "general",
-      "createdAt": "2025-09-29T03:14:24.223Z",
-      "updatedAt": "2025-09-29T03:14:24.223Z",
+      "createdAt": "2025-09-29T03:28:17.376Z",
+      "updatedAt": "2025-09-29T03:28:17.376Z",
       "stickers": [
         {
           "id": "rqIzRfDnJDM4C0IAaRWA-11",
